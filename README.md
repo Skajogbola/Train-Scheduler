@@ -7,10 +7,10 @@ create a train schedule app that:
 
 Here's the solution:
 
-I created a user input to add new train name, start time and frequency to schedule. 
-Displays schedule in repeating table with next arrival based on current time and frequency of train stops. 
-I stored Train info in Firebase for data persistence and retreives information from database on load. 
-Schedules refresh every minute to reflect updated arrival information. 
+I created a user input to add new train name, start time and frequency to schedule.   
+Displays schedule in repeating table with next arrival based on current time and frequency of train stops.   
+I stored Train info in Firebase for data persistence and retreives information from database on load.   
+Schedules refresh every minute to reflect updated arrival information.   
 
 Technical approach:
 
