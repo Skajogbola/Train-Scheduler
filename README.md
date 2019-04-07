@@ -14,8 +14,8 @@ Schedules refresh every minute to reflect updated arrival information.
 
 Technical approach:
 
-*Javascript
-*jQuery
+..*Javascript
+..*jQuery
 *HTML5
 *CSS3
 *Firebase
